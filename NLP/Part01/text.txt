@@ -1,0 +1,2 @@
+This is a message that replaces the previous message
+writing a new line
